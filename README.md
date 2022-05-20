@@ -1,5 +1,10 @@
 # Periodic Table Database
 
+## This is my original completed solution to this project for the FCC Relational Database certification
+
+## The project criteria are as follows:
+
+
 > Welcome to the Periodic Table Database project!
 
 ## 1. Instructions
